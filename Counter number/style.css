@@ -1,0 +1,12 @@
+label{
+    display: block;
+    text-align: center;
+    font-size: 190px;
+}
+button{
+    font-size: 70px;
+    border: 2px solid black;
+    margin-bottom: 17px;
+    display: block;
+    margin:auto;
+}
